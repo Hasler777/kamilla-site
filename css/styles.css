@@ -2,7 +2,7 @@
    Камилла Тимошенко — лендинг · v4 (палитра «Деним и коралл»)
    Дизайн-система: холодная джинсово-синяя база + тёплый коралловый акцент.
    Цвета сняты пипеткой с фотографий Камиллы (одежда).
-   Playfair Display (заголовки) + Inter (текст). Единый вертикальный ритм.
+   Oswald (заголовки, вертикальный узкий гротеск) + Inter (текст). Единый вертикальный ритм.
    Signature: маркерное выделение ключевых фраз. Mobile-first, WCAG AA.
    ===================================================================== */
 
@@ -21,7 +21,7 @@
   --mark:          #F7D8C9;   /* маркер-хайлайтер (мягкий персик) */
   --danger:        #C0453B;
 
-  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-display: 'Oswald', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
   /* B3. Сетка и ритм */
