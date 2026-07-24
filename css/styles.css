@@ -81,7 +81,7 @@ p { margin: 0 0 1em; }
 
 .eyebrow {
   display: inline-block; font-family: var(--font-body); font-weight: 700;
-  font-size: .8125rem; letter-spacing: .14em; text-transform: uppercase;
+  font-size: .8125rem; letter-spacing: .02em;
   color: var(--olive); margin: 0 0 1em;
 }
 .section--dark .eyebrow, .section--olive .eyebrow { color: var(--accent-soft); }
