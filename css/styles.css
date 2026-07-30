@@ -21,7 +21,7 @@
   --mark:          #F7D8C9;   /* маркер-хайлайтер (мягкий персик) */
   --danger:        #C0453B;
 
-  --font-display: 'Oswald', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-display: 'Open Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
   /* B3. Сетка и ритм */
@@ -56,7 +56,7 @@ img { max-width: 100%; display: block; height: auto; }
 a { color: var(--olive); text-decoration: none; }
 a:hover { color: var(--accent); }
 button { font-family: inherit; cursor: pointer; }
-h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 600; line-height: 1.12; margin: 0 0 .4em; color: var(--text); }
+h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 700; line-height: 1.12; margin: 0 0 .4em; color: var(--text); }
 p { margin: 0 0 1em; }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 
